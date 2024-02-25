@@ -1,2 +1,2 @@
 # Lyres-Dices
-Dice that may lie
+!warning may contain dice!
