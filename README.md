@@ -1,2 +1,2 @@
 # Lyres-Dices
-!warning may contain dice!
+Simple console line dice game
